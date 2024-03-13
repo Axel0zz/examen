@@ -291,7 +291,7 @@
     background: mediumspringgreen;
     position: absolute;
     top: 2700px ;
-    left: 200px;
+    left: 210px;
     transform: rotate(30deg);
 }
 #Cuadradox{
@@ -308,6 +308,6 @@
     background: orange;
     position: absolute;
     top: 2620px ;
-    left: 340px;
-    transform: rotate(25deg);
+    left: 357px;
+    transform: rotate(30deg);
 }
